@@ -1,4 +1,5 @@
 welcome to kitchen recipes!
 chicken curry
+mutton curry
 rice
 recipe for you
